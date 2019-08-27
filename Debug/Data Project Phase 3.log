@@ -1,0 +1,5 @@
+﻿  Phase 3cpp.cpp
+d:\data project phase 3\data project phase 3\phase 3cpp.cpp(435): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+d:\data project phase 3\data project phase 3\phase 3cpp.cpp(616): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+d:\data project phase 3\data project phase 3\phase 3cpp.cpp(418): warning C4715: 'getascii' : not all control paths return a value
+  Data Project Phase 3.vcxproj -> D:\Data Project Phase 3\Debug\Data Project Phase 3.exe
